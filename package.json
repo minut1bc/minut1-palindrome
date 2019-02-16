@@ -1,0 +1,24 @@
+{
+  "name": "minut1-palindrome",
+  "version": "0.1.0",
+  "description": "Plaindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minut1bc/minut1-palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "minut1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minut1bc/minut1-palindrome/issues"
+  },
+  "homepage": "https://github.com/minut1bc/minut1-palindrome#readme"
+}
